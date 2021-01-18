@@ -1,9 +1,3 @@
-# bash-handbook-zh-CN [![CC 4.0][cc-image]][cc-url]
-
-谨以此文档献给那些想学习Bash又无需钻研太深的人。
-
-> **Tip**: 不妨尝试 [**learnyoubash**](https://git.io/learnyoubash) — 一个基于本文档的交互式学习平台！
-
 # 目录
 
 - [前言](#前言)
